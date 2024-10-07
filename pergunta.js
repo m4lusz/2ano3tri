@@ -36,7 +36,7 @@ criaCartao(
 
 criaCartao(
     'Ciências',
-    'Qual planeta fica masi longe do sol?',
+    'Qual planeta fica mais longe do sol?',
     'Netuno'
 )
 
