@@ -45,3 +45,15 @@ criaCartao(
     'Qual a língua mais falada no mundo?',
     'Inglês'
 )
+
+criaCartao(
+    'Séries',
+    'Qual a série com mais episódios do mundo?',
+    'OS Simpsons'
+)
+
+criaCartao(
+    'Taylor Swift',
+    'Qual o terceiro albúm da Taylor Swift?',
+    'Speak Now'
+)
