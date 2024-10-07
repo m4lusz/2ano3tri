@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color:aqua
+    background: url('yelow.jpg')
     font-family: Bai Jamjuree;
 }
 
@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background-color:aqua, no-repeat cover;
+        background: url('yelow.jpg'), no-repeat cover;
     }
 
     .cartao {
