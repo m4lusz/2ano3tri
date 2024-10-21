@@ -49,11 +49,23 @@ criaCartao(
 criaCartao(
     'Séries',
     'Qual a série com mais episódios do mundo?',
-    'OS Simpsons'
+    'Os Simpsons'
 )
 
 criaCartao(
     'Taylor Swift',
     'Qual o terceiro albúm da Taylor Swift?',
     'Speak Now'
+)
+
+criaCartao(
+    'Anatomia',
+    'Quantos ossos tem o corpo humano?',
+    '206 ossos'
+)
+
+criaCartao(
+    'Esportes',
+    'Quantos jogadores tem em um jogo de futsal?',
+    '5 jogadores'
 )
